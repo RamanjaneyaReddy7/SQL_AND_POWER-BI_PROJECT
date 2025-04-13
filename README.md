@@ -1,5 +1,4 @@
-SQL_AND_POWER-BI_PROJECT
-VISUVALIZATION OF USING SQL AND POWER-BI![image](https://github.com/user-attachments/assets/110e5052-5410-42bb-9e33-8f6dac4d9961)
+VISUVALIZATION OF USING SQL AND POWER-Bi
 This project combines SQL for data extraction and transformation with Power BI for visualization, aiming to provide comprehensive insights into sales and profit performance across various dimensions like Sales Rep, Customer, Region, and Time (Year/Month).
 SQL (Structured Query Language)
 Used to:
